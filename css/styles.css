@@ -1,0 +1,75 @@
+body{
+  background-color: #245b82e6;
+  text-align: center;
+}
+
+#titulos{
+  margin-top: 50px;
+  margin-bottom: 70px;
+  width: 100%;
+  height: 188px;
+  background-image: url("../Images/banner.jpeg");
+  padding: 40px;
+}
+
+.title{
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  color: white;
+  text-shadow: 
+}
+
+.subtitle{
+  font-size: 20px;
+  text-decoration: underline;
+  margin-bottom: 50px;
+}
+
+header{
+  width: 100%;
+  height: 50px;
+  background-color: #02497F;
+  overflow: hidden;
+}
+
+.logo img{
+  height: 50px;
+  float: left;
+}
+
+.tel{
+  font-size: 18px;
+  text-align: right;
+  color: white;
+}
+
+.formulario table{
+  border: 5px solid black;
+  padding: 30px;
+  margin: 0 auto;
+}
+
+
+.fotosytexto{
+  margin-top: 100px;
+  width: 100%;
+  overflow: hidden;
+  font-weight: bold;
+}
+
+.img1{
+  width: 50%;
+  float: left;
+}
+
+.img2{
+  width: 50%;
+  float: left;
+}
+
+footer{
+  margin-top: 50px;
+  background-color: #02497F;
+  height: 50px;
+  padding: 1px;
+}
