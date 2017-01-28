@@ -16,13 +16,14 @@ body{
   font-family: 'Lobster', cursive;
   font-size: 40px;
   color: white;
-  text-shadow: 
+  text-shadow:5px 3px 3px black;
 }
 
 .subtitle{
   font-size: 20px;
   text-decoration: underline;
   margin-bottom: 50px;
+  color: white;
 }
 
 header{
@@ -73,3 +74,21 @@ footer{
   height: 50px;
   padding: 1px;
 }
+
+/*@media(max-width: 600px) {
+  body{
+    background: red;
+  }
+}
+
+@media (max-width: 900px) and (min-width: 600px) {
+  body{
+    background: yellow;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 950px){
+  body{
+    background: black;
+  }
+}*/
