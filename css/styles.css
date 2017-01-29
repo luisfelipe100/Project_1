@@ -51,7 +51,7 @@ header{
 }
 
 
-.fotosytexto{
+/*.fotosytexto{
   margin-top: 100px;
   width: 100%;
   overflow: hidden;
@@ -66,6 +66,20 @@ header{
 .img2{
   width: 50%;
   float: left;
+}*/
+
+.fotosytexto{
+  margin-top: 100px;
+  /*overflow: hidden;*/
+  font-weight: bold;
+}
+
+.img1{
+  /*float: left;*/
+}
+
+.img2{
+  /*float: left;*/
 }
 
 footer{
